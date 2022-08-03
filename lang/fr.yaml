@@ -1,0 +1,22 @@
+- id: dvpo
+  title: Ordonnance de protection contre la violence domestique
+  reasons:
+  - title: Blessure physique
+    description: Il y a des blessures physiques, des blessures corporelles, des agressions, y compris des agressions sexuelles, du harcèlement OU la crainte d'une blessure physique, d'une blessure corporelle ou d'une agression imminente.
+  - title: Relations intimes
+    description: L'agresseur est un membre de la famille, un membre du ménage ou une personne avec qui vous sortez.
+- id: ahpo
+  title: Ordonnance de protection contre le harcèlement
+  reasons:
+  - title: Cour supérieure
+    description: Votre dossier ne remplit pas les conditions requises pour être déposé à la Cour supérieure de votre comté.
+  - title: Actions éligibles
+    description: Vous n'avez pas sélectionné l'une des actions éligibles, ce qui rend votre cas inéligible selon la définition légale du harcèlement.
+- id: sapo
+  title: Ordonnance de protection contre les agressions sexuelles
+  reasons:
+  - title: Relation
+    description: La relation de la victime avec l'intimé signifie que l'ordonnance de protection contre les agressions sexuelles n'est peut-être pas l'ordonnance de protection appropriée. Veuillez parler à un facilitateur judiciaire ou à un professionnel du droit pour recevoir des conseils sur votre cas.
+  - title: Acte sexuel
+    description: Il y a pénétration sexuelle, attouchements, parade ou acte sexuel non désiré.
+

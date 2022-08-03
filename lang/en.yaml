@@ -1,0 +1,22 @@
+- id: dvpo
+  title: Domestic Violence Protection Order
+  reasons:
+  - title: Physical Harm
+    description: There is physical harm, bodily injury, assault, including sexual assault, stalking, OR the infliction of fear of imminent physical harm, bodily injury or assault.
+  - title: Intimate Relationships
+    description: The offender is a family member, a household member or someone you're dating.
+- id: ahpo
+  title: Antiharassment Protection Order
+  reasons:
+  - title: Superior Court
+    description: Your case lacks the required conditions for filing at the Superior Court in your county.
+  - title: Eligible Actions
+    description: You did not select an of the eligible actions which makes your case ineligible as per the legal definition of harassment.
+- id: sapo
+  title: Sexual Assault Protection Order
+  reasons:
+  - title: Relationship
+    description: The victim's relationship with the respondent means that the Sexual Assault Protection Order may not be the appropriate protection order. Please talk to a court facilitator or legal professional to receive guidance on your case.
+  - title: Sexual Act
+    description: There is sexual penetration, touching, display or some unwanted sexual act.
+

@@ -1,0 +1,22 @@
+- id: dvpo
+  title: Perevägivalla kaitse määrus
+  reasons:
+  - title: Füüsiline kahju
+    description: Tekib füüsiline vigastus, kehavigastus, rünnak, sealhulgas seksuaalne rünnak, jälitamine, VÕI hirmu tekitamine vahetu füüsilise vigastuse, kehavigastuse või kallaletungi ees.
+  - title: Intiimsed suhted
+    description: Kurjategija on pereliige, leibkonnaliige või keegi, kellega kohtate.
+- id: ahpo
+  title: Ahistamisvastane kaitsemäärus
+  reasons:
+  - title: Kõrgem kohus
+    description: Teie juhtumil puuduvad teie maakonna kõrgemasse kohtusse esitamiseks nõutavad tingimused.
+  - title: Abikõlblikud toimingud
+    description: Te ei valinud ühtki sobivat tegevust, mis muudab teie juhtumi ahistamise juriidilise määratluse järgi sobimatuks.
+- id: sapo
+  title: Seksuaalse rünnaku kaitse määrus
+  reasons:
+  - title: Suhe
+    description: Ohvri suhe vastajaga tähendab, et seksuaalvägivalla kaitse määrus ei pruugi olla sobiv kaitsemäärus. Palun rääkige oma kohtuasja kohta juhiste saamiseks kohtu nõustaja või juristiga.
+  - title: Seksuaalakt
+    description: Seal on seksuaalne läbitungimine, puudutamine, kuvamine või mõni soovimatu seksuaalakt.
+
